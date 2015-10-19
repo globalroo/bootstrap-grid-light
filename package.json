@@ -1,5 +1,5 @@
 {
-  "name": "nagra-bootstrap",
+  "name": "bootstrap-grid-light",
   "version": "1.0.0",
   "description": "Bootstrap light for integration of 'just' the bootstrap grid.",
   "main": "gulpfile.js",
