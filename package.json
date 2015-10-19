@@ -1,0 +1,30 @@
+{
+  "name": "nagra-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap light for integration of 'just' the bootstrap grid.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globalroo/bootstrap-grid-light.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "light",
+    "3.3.5"
+  ],
+  "author": "Andrew Davies <globalroo@hotmail.com> (http://github.com/globalroo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globalroo/bootstrap-grid-light/issues"
+  },
+  "homepage": "https://github.com/globalroo/bootstrap-grid-light#readme",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-minify-css": "1.2.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sourcemaps": "1.6.0"
+  }
+}
